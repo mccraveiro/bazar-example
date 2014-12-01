@@ -1,0 +1,12 @@
+{
+  "name": "bazar-example",
+  "version": "0.0.1",
+  "description": "Bazar eCommerce example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch ../bazar/ index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Craveiro <mccraveiro@gmail.com>",
+  "license": "MIT"
+}
